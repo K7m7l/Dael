@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2015\Projects\similarity\similarity\bin\Debug\similarity.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\similarity\similarity\bin\Debug\similarity.exe
+c:\users\pc\documents\visual studio 2015\Projects\similarity\similarity\bin\Debug\similarity.pdb
+c:\users\pc\documents\visual studio 2015\Projects\similarity\similarity\obj\Debug\similarity.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\similarity\similarity\obj\Debug\similarity.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\similarity\similarity\obj\Debug\similarity.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\similarity\similarity\obj\Debug\similarity.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\similarity\similarity\obj\Debug\similarity.exe
+c:\users\pc\documents\visual studio 2015\Projects\similarity\similarity\obj\Debug\similarity.pdb
